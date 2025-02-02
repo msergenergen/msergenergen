@@ -9,8 +9,8 @@ Welcome to my GitHub! I'm a passionate Java developer with a focus on building s
 
 ## 🔧 Technologies & Tools
 - **Languages:** Java, Python, C++, Bash scripting
-- **Frameworks:** Quarkus, Spring Boot, Hibernate, JUnit, JFR
-- **Tools:** Maven, Gradle, CMake, Kafka, Docker, Jenkins
+- **Frameworks:** Quarkus, Spring Boot
+- **Tools:** Maven, Gradle, CMake, Kafka, Redis, Docker, Jenkins
 - **Version Control:** Git, SVN
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **IDEs:** Eclipse, IntelliJ, VS Code
