@@ -8,11 +8,11 @@ Welcome to my GitHub! I'm a passionate Java developer with a focus on building s
 - ⚡ Fun fact: When I'm not coding, you can find me exploring new problem-solving algorithms or diving into data structures.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Java, Python, C++, 
-- **Frameworks:** Quarkus (Interested), Spring Boot
+- **Languages:** Java, Python, C++
+- **Frameworks:** Spring Boot, Quarkus (Interested) 
 - **Tools:** Maven, Gradle, CMake, Apache Kafka, Redis, Docker, Sonarqube, Jenkins, Bash scripting
 - **Version Control:** Git, SVN
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, MongoDB
 - **IDEs:** Eclipse, IntelliJ, VS Code
 
 ## 📈 GitHub Stats
