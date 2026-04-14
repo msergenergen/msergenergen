@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate Java developer with a focus on building s
 - **IDEs:** Eclipse, IntelliJ, VS Code
 
 ## 📈 GitHub Stats
-![MSE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msergenergen&show_icons=true&theme=radical)
+![MSE's GitHub Stats](https://github-readme-stats.shion.dev/api?username=msergenergen)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to Reach Me
 - **Email:** [msergenergen@outlook.com](mailto:msergenergen@outlook.com)
